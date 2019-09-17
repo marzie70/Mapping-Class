@@ -1,0 +1,15 @@
+c:\users\m.kazemi\documents\visual studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\TestNHibernate.exe.config
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\TestNHibernate.exe
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\TestNHibernate.pdb
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\Classes.dll
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\FluentNHibernate.dll
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\NHibernate.dll
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\Classes.pdb
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\FluentNHibernate.pdb
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\FluentNHibernate.xml
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\Iesi.Collections.xml
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\bin\Debug\NHibernate.xml
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\obj\Debug\TestNHibernate.csprojResolveAssemblyReference.cache
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\obj\Debug\TestNHibernate.exe
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\TestNHibernate\obj\Debug\TestNHibernate.pdb

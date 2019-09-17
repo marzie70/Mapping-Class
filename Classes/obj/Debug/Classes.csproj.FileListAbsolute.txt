@@ -1,0 +1,5 @@
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\Classes\bin\Debug\Classes.dll
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\Classes\bin\Debug\Classes.pdb
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\Classes\obj\Debug\Classes.dll
+C:\Users\m.kazemi\Documents\Visual Studio 2013\Projects\TestNHibernate\Classes\obj\Debug\Classes.pdb
